@@ -1,2 +1,2 @@
-# weather-
-This is a weather app that tells the weather of the cities
+# Weather-Forecast-App
+It's a cloud based weather forecast web application....
